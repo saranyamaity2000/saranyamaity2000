@@ -8,7 +8,7 @@
 ## I'm a College Student at KIIT UNIVERSITY
 
 - ⚡  2020 Gate Qualified.
-- 📚 I’m currently working on a Kivy
+- 📚 I’m currently working on Python Projects
 - 🌱 I’m now not kinda Industry-ready but ready to take actions 
 - 😊 2021 Goals: Less thinking , Structured Planning , More Productivity
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/saranyamaity/)
