@@ -12,8 +12,8 @@
 - 🌱 I’m now not kinda Industry-ready but ready to take actions 
 - 😊 2021 Goals: Less thinking , Structured Planning , More Productivity
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/saranyamaity/)
-- ✌️ Problem Solved in GFG : 286+ ( accuracy 30% apprx ) 
-- ⌚️ Codechef Status : Legit 3⭐️ ( 1713 ) 70+ Problems solved.
+- ✌️ Problem Solved in GFG : 320+ ( Accuracy 37% apprx ) 
+- ⌚️ Codechef Status : Legit 3⭐️ ( 1713 Rating and 70+ Problems Solved ).
 
 <br /><br/>
 
