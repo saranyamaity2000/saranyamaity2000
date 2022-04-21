@@ -13,7 +13,7 @@
 - 😊 2021 Goals: Less thinking , Structured Planning , More Productivity
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/saranyamaity/)
 - ✌️ Rank 3 in GFG (Among KIIT Students)
-- ⌚️ Codechef Status : Legit 3⭐️ ( 1713 Rating and 70+ Problems Solved ).
+- ⌚️ Codechef Status : Legit 4⭐️ ( 1878 Rating ).
 
 <br /><br/>
 
