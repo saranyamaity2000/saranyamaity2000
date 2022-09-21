@@ -8,6 +8,7 @@
 ## I'm a College Student at KIIT UNIVERSITY
 
 - ⚡  2020 Gate Qualified.
+- ⚡  Global Rank 37 in CodeChef Contest.
 - 📚 I’m currently working on Python Projects
 - 🌱 I’m now not kinda Industry-ready but ready to take actions 
 - 😊 2021 Goals: Less thinking , Structured Planning , More Productivity
