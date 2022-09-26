@@ -8,13 +8,13 @@
 ## I'm a College Student at KIIT UNIVERSITY
 
 - ⚡  2020 Gate Qualified.
-- ⚡  Global Rank 37 in CodeChef Contest.
+- ⚡  Global Rank 37 in Div2 CodeChef Contest.
 - 📚 I’m currently working on Python Projects
 - 🌱 I’m now not kinda Industry-ready but ready to take actions 
 - 😊 2021 Goals: Less thinking , Structured Planning , More Productivity
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/saranyamaity/)
-- ✌️ Rank 1 in GFG (Among KIIT Students) (till last update)
-- ⌚️ Codechef Status : Legit 4⭐️ ( 1878 Rating ).
+- ✌️ Rank 1 in GFG (Among KIIT Students)
+- ⌚️ Codechef Status : 5⭐️ ( 2000+ Rating ).
 
 <br/><br/>
 
