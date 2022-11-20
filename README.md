@@ -2,23 +2,20 @@
 
 [![Linkedin: SaranyaMaity](https://img.shields.io/badge/-saranyamaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saranyamaity/)](https://www.linkedin.com/in/saranyamaity/)
 [![GitHub saranyamaity2000](https://img.shields.io/github/followers/saranyamaity2000?label=follow&style=social)](https://github.com/saranyamaity2000)
-<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) -->
 
+<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) -->
 
 ## I'm a College Student at KIIT UNIVERSITY
 
-- ⚡  2020 Gate Qualified.
-- ⚡  Global Rank 37 in Div2 CodeChef Contest.
-- 📚 I’m currently working on Python Projects
-- 🌱 I’m now not kinda Industry-ready but ready to take actions 
-- 😊 2021 Goals: Less thinking , Structured Planning , More Productivity
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/saranyamaity/)
-- ✌️ Rank 1 in GFG (Among KIIT Students)
 - ⌚️ Codechef Status : 5⭐️ ( 2000+ Rating ).
+- ⚡ 2020 Gate Qualified.
+- ⚡ Global Rank 37 in Div2 CodeChef Contest.
+- ✌️ Rank 1 in GFG (KIIT)
+- Currently working as SDE @LUMEN
+- 😊 2023 Goals: More Productivity
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/saranyamaity/)
 
 <br/><br/>
-
-
 
 ### Languages and Tools:
 
@@ -32,7 +29,7 @@
 <br/><br/>
 
 ### My Stats:
-  
+
 <a href="https://github.com/saranyamaity2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranyamaity2000&theme=tokyonight&layout=compact" />
 </a>
@@ -56,4 +53,3 @@
 ### #Long Way To Go
 
 </div>
-
